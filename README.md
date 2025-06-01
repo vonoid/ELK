@@ -3,8 +3,8 @@
 
 Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name.
 
-`скриншот команды curl:
-![1](https://github.com/vonoid/ELK/blob/9e130793926b6950532ffcdf185278b1a5ea52af/1.jpg)`
+скриншот команды curl:
+![1](https://github.com/vonoid/ELK/blob/9e130793926b6950532ffcdf185278b1a5ea52af/1.jpg)
 
 
 ---
